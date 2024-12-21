@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/splat3seedchecker/static/css/main.3e3d5e61.css",
-    "main.js": "/splat3seedchecker/static/js/main.e6e304e8.js",
+    "main.js": "/splat3seedchecker/static/js/main.461f17d8.js",
     "react-syntax-highlighter/refractor-core-import.js": "/splat3seedchecker/static/js/react-syntax-highlighter/refractor-core-import.d4d51e1a.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/splat3seedchecker/static/js/react-syntax-highlighter_languages_refractor_abap.3a483cd8.chunk.js",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/splat3seedchecker/static/js/react-syntax-highlighter_languages_refractor_actionscript.9aaaa12f.chunk.js",
@@ -181,7 +181,7 @@
     "static/media/img_order1.png": "/splat3seedchecker/static/media/img_order1.304481548304734f75a4.png",
     "index.html": "/splat3seedchecker/index.html",
     "main.3e3d5e61.css.map": "/splat3seedchecker/static/css/main.3e3d5e61.css.map",
-    "main.e6e304e8.js.map": "/splat3seedchecker/static/js/main.e6e304e8.js.map",
+    "main.461f17d8.js.map": "/splat3seedchecker/static/js/main.461f17d8.js.map",
     "refractor-core-import.d4d51e1a.chunk.js.map": "/splat3seedchecker/static/js/react-syntax-highlighter/refractor-core-import.d4d51e1a.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.3a483cd8.chunk.js.map": "/splat3seedchecker/static/js/react-syntax-highlighter_languages_refractor_abap.3a483cd8.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.9aaaa12f.chunk.js.map": "/splat3seedchecker/static/js/react-syntax-highlighter_languages_refractor_actionscript.9aaaa12f.chunk.js.map",
@@ -340,6 +340,6 @@
   },
   "entrypoints": [
     "static/css/main.3e3d5e61.css",
-    "static/js/main.e6e304e8.js"
+    "static/js/main.461f17d8.js"
   ]
 }
