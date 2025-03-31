@@ -1,0 +1,6 @@
+*.js   text eol=crlf
+*.map    text eol=lf
+*.txt    text eol=lf
+*.html    text eol=lf
+*.css    text eol=lf
+*.json    text eol=lf
